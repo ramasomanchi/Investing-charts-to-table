@@ -1,0 +1,3 @@
+streamlit
+pandas
+lxml # Required by pandas for pd.read_html
