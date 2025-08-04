@@ -24,4 +24,4 @@ st.info("💡 **Note on Chart Conversion:** Directly extracting data from comple
 
 # Add a simple footer
 st.markdown("---")
-st.markdown("Developed with ❤️ using Streamlit")
+st.markdown("Developed with ❤️ by Ramalakshmi")
